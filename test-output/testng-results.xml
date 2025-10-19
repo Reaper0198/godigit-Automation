@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-17T13:44:56 IST" name="InsuranceAutomationSuite" finished-at="2025-10-17T13:46:23 IST" duration-ms="86255">
+    <groups>
+    </groups>
+    <test started-at="2025-10-17T13:44:56 IST" name="InsuranceTests" finished-at="2025-10-17T13:46:23 IST" duration-ms="86255">
+      <class name="tests.TravelInsuranceTest">
+        <test-method is-config="true" signature="reportSetup()[pri:0, instance:tests.TravelInsuranceTest@37ddb69a]" started-at="2025-10-17T13:44:56 IST" name="reportSetup" finished-at="2025-10-17T13:44:56 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:tests.TravelInsuranceTest@37ddb69a]" started-at="2025-10-17T13:44:56 IST" name="testSetup" finished-at="2025-10-17T13:44:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:tests.TravelInsuranceTest@37ddb69a]" started-at="2025-10-17T13:44:56 IST" name="browserSetup" finished-at="2025-10-17T13:45:17 IST" duration-ms="20268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testTravelInsurancePlans()[pri:1, instance:tests.TravelInsuranceTest@37ddb69a]" started-at="2025-10-17T13:45:17 IST" name="testTravelInsurancePlans" finished-at="2025-10-17T13:45:39 IST" duration-ms="21952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTravelInsurancePlans -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.TravelInsuranceTest@37ddb69a]" started-at="2025-10-17T13:45:39 IST" name="teardown" finished-at="2025-10-17T13:45:44 IST" duration-ms="5438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="reportTearDown()[pri:0, instance:tests.TravelInsuranceTest@37ddb69a]" started-at="2025-10-17T13:46:23 IST" name="reportTearDown" finished-at="2025-10-17T13:46:23 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTearDown -->
+      </class> <!-- tests.TravelInsuranceTest -->
+      <class name="tests.HealthInsuranceTest">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:tests.HealthInsuranceTest@5e8ac0e1]" started-at="2025-10-17T13:44:56 IST" name="testSetup" finished-at="2025-10-17T13:44:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:tests.HealthInsuranceTest@5e8ac0e1]" started-at="2025-10-17T13:46:00 IST" name="browserSetup" finished-at="2025-10-17T13:46:05 IST" duration-ms="5554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testHealthInsuranceSearch()[pri:1, instance:tests.HealthInsuranceTest@5e8ac0e1]" started-at="2025-10-17T13:46:05 IST" name="testHealthInsuranceSearch" finished-at="2025-10-17T13:46:17 IST" duration-ms="11829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHealthInsuranceSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.HealthInsuranceTest@5e8ac0e1]" started-at="2025-10-17T13:46:17 IST" name="teardown" finished-at="2025-10-17T13:46:23 IST" duration-ms="5387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.HealthInsuranceTest -->
+      <class name="tests.CommercialInsuranceTest">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:tests.CommercialInsuranceTest@4b9df8a]" started-at="2025-10-17T13:44:56 IST" name="testSetup" finished-at="2025-10-17T13:44:56 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:tests.CommercialInsuranceTest@4b9df8a]" started-at="2025-10-17T13:45:44 IST" name="browserSetup" finished-at="2025-10-17T13:45:51 IST" duration-ms="6650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method signature="testCarInsuranceSearch()[pri:1, instance:tests.CommercialInsuranceTest@4b9df8a]" started-at="2025-10-17T13:45:51 IST" name="testCarInsuranceSearch" finished-at="2025-10-17T13:45:56 IST" duration-ms="5107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCarInsuranceSearch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.CommercialInsuranceTest@4b9df8a]" started-at="2025-10-17T13:45:56 IST" name="teardown" finished-at="2025-10-17T13:46:00 IST" duration-ms="3985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.CommercialInsuranceTest -->
+    </test> <!-- InsuranceTests -->
+  </suite> <!-- InsuranceAutomationSuite -->
+</testng-results>

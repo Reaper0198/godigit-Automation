@@ -1,0 +1,419 @@
+2025-10-15 11:18:03 INFO  BaseTest:35 - Initializing Extent Reports
+2025-10-15 11:18:03 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-15 11:18:10 INFO  TravelInsurancePage:37 - Switched to Travel Insurance tab.
+2025-10-15 11:18:14 INFO  TravelInsurancePage:53 - Entered country: Germany
+2025-10-15 11:18:16 INFO  TravelInsurancePage:66 - Selected departure date.
+2025-10-15 11:18:19 INFO  TravelInsurancePage:76 - Selected return date.
+2025-10-15 11:18:19 INFO  TravelInsurancePage:86 - Clicked the view price button.
+2025-10-15 11:18:23 INFO  TravelInsurancePage:95 - Clicked to add traveller.
+2025-10-15 11:18:25 INFO  TravelInsurancePage:101 - Entered DOBs for travellers.
+2025-10-15 11:18:25 INFO  TravelInsurancePage:105 - Clicked continue to view plans.
+2025-10-15 11:18:25 INFO  TravelInsuranceTest:29 - Executed travel insurance search.
+2025-10-15 11:18:26 INFO  TravelInsuranceTest:34 - Excel header written successfully.
+2025-10-15 11:18:28 INFO  TravelInsurancePage:116 - Fetched plan name for index 0: Double Secure
+2025-10-15 11:18:28 INFO  TravelInsurancePage:127 - Fetched plan price for index 0: ₹1,474
+2025-10-15 11:18:28 INFO  TravelInsuranceTest:45 - Written plan 1: Double Secure - ₹1,474
+2025-10-15 11:18:28 INFO  TravelInsurancePage:116 - Fetched plan name for index 1: Double Secure Plus
+2025-10-15 11:18:28 INFO  TravelInsurancePage:127 - Fetched plan price for index 1: ₹1,684
+2025-10-15 11:18:28 INFO  TravelInsuranceTest:45 - Written plan 2: Double Secure Plus - ₹1,684
+2025-10-15 11:18:28 INFO  TravelInsurancePage:116 - Fetched plan name for index 2: Comfort Plan
+2025-10-15 11:18:28 INFO  TravelInsurancePage:127 - Fetched plan price for index 2: ₹1,182
+2025-10-15 11:18:28 INFO  TravelInsuranceTest:45 - Written plan 3: Comfort Plan - ₹1,182
+2025-10-15 11:18:28 INFO  TravelInsuranceTest:50 - Excel file saved with travel insurance data.
+2025-10-15 11:18:28 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-15 11:18:33 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-15 11:18:39 INFO  CommercialInsurancePage:28 - Starting car insurance search.
+2025-10-15 11:18:39 INFO  CommercialInsurancePage:33 - Clicked on registration field.
+2025-10-15 11:18:40 INFO  CommercialInsurancePage:38 - Entered mobile number and submitted.
+2025-10-15 11:18:42 INFO  CommercialInsuranceTest:33 - Screenshot taken successfully.
+2025-10-15 11:18:42 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-15 11:18:47 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-15 11:18:51 INFO  HealthInsurancePage:29 - Switched to Health Insurance tab.
+2025-10-15 11:18:51 INFO  HealthInsurancePage:39 - Entered pin code.
+2025-10-15 11:18:51 INFO  HealthInsurancePage:49 - Entered mobile number.
+2025-10-15 11:18:51 INFO  HealthInsurancePage:59 - Clicked View Price button.
+2025-10-15 11:19:00 INFO  HealthInsurancePage:75 - Found 3 menu items.
+2025-10-15 11:19:00 INFO  HealthInsuranceTest:28 - Executed health insurance search.
+2025-10-15 11:19:00 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-15 11:19:03 INFO  BaseTest:59 - Flushing Extent Reports... 
+
+2025-10-15 11:19:16 INFO  BaseTest:35 - Initializing Extent Reports
+2025-10-15 11:19:17 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-15 11:19:24 INFO  TravelInsurancePage:37 - Switched to Travel Insurance tab.
+2025-10-15 11:19:27 INFO  TravelInsurancePage:53 - Entered country: Germany
+2025-10-15 11:19:30 INFO  TravelInsurancePage:66 - Selected departure date.
+2025-10-15 11:19:32 INFO  TravelInsurancePage:76 - Selected return date.
+2025-10-15 11:19:32 INFO  TravelInsurancePage:86 - Clicked the view price button.
+2025-10-15 11:19:37 INFO  TravelInsurancePage:95 - Clicked to add traveller.
+2025-10-15 11:19:39 INFO  TravelInsurancePage:101 - Entered DOBs for travellers.
+2025-10-15 11:19:39 INFO  TravelInsurancePage:105 - Clicked continue to view plans.
+2025-10-15 11:19:39 INFO  TravelInsuranceTest:29 - Executed travel insurance search.
+2025-10-15 11:19:40 INFO  TravelInsuranceTest:34 - Excel header written successfully.
+2025-10-15 11:19:41 INFO  TravelInsurancePage:116 - Fetched plan name for index 0: Double Secure
+2025-10-15 11:19:41 INFO  TravelInsurancePage:127 - Fetched plan price for index 0: ₹1,474
+2025-10-15 11:19:41 INFO  TravelInsuranceTest:45 - Written plan 1: Double Secure - ₹1,474
+2025-10-15 11:19:41 INFO  TravelInsurancePage:116 - Fetched plan name for index 1: Double Secure Plus
+2025-10-15 11:19:41 INFO  TravelInsurancePage:127 - Fetched plan price for index 1: ₹1,684
+2025-10-15 11:19:41 INFO  TravelInsuranceTest:45 - Written plan 2: Double Secure Plus - ₹1,684
+2025-10-15 11:19:41 INFO  TravelInsurancePage:116 - Fetched plan name for index 2: Comfort Plan
+2025-10-15 11:19:41 INFO  TravelInsurancePage:127 - Fetched plan price for index 2: ₹1,182
+2025-10-15 11:19:41 INFO  TravelInsuranceTest:45 - Written plan 3: Comfort Plan - ₹1,182
+2025-10-15 11:19:41 INFO  TravelInsuranceTest:50 - Excel file saved with travel insurance data.
+2025-10-15 11:19:41 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-15 11:19:46 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-15 11:19:53 INFO  CommercialInsurancePage:28 - Starting car insurance search.
+2025-10-15 11:19:53 INFO  CommercialInsurancePage:33 - Clicked on registration field.
+2025-10-15 11:19:54 INFO  CommercialInsurancePage:38 - Entered mobile number and submitted.
+2025-10-15 11:19:56 INFO  CommercialInsuranceTest:33 - Screenshot taken successfully.
+2025-10-15 11:19:56 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-15 11:19:59 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-15 11:20:04 INFO  HealthInsurancePage:29 - Switched to Health Insurance tab.
+2025-10-15 11:20:04 INFO  HealthInsurancePage:39 - Entered pin code.
+2025-10-15 11:20:04 INFO  HealthInsurancePage:49 - Entered mobile number.
+2025-10-15 11:20:04 INFO  HealthInsurancePage:59 - Clicked View Price button.
+2025-10-15 11:20:14 INFO  HealthInsurancePage:75 - Found 3 menu items.
+2025-10-15 11:20:14 INFO  HealthInsuranceTest:28 - Executed health insurance search.
+2025-10-15 11:20:14 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-15 11:20:18 INFO  BaseTest:59 - Flushing Extent Reports... 
+
+2025-10-17 11:12:46 INFO  BaseTest:35 - Initializing Extent Reports
+2025-10-17 11:12:46 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 11:13:08 INFO  TravelInsurancePage:37 - Switched to Travel Insurance tab.
+2025-10-17 11:13:13 INFO  TravelInsurancePage:53 - Entered country: Germany
+2025-10-17 11:13:16 INFO  TravelInsurancePage:66 - Selected departure date.
+2025-10-17 11:13:19 INFO  TravelInsurancePage:76 - Selected return date.
+2025-10-17 11:13:19 INFO  TravelInsurancePage:86 - Clicked the view price button.
+2025-10-17 11:13:44 INFO  TravelInsurancePage:95 - Clicked to add traveller.
+2025-10-17 11:13:47 INFO  TravelInsurancePage:101 - Entered DOBs for travellers.
+2025-10-17 11:13:48 INFO  TravelInsurancePage:105 - Clicked continue to view plans.
+2025-10-17 11:13:48 INFO  TravelInsuranceTest:29 - Executed travel insurance search.
+2025-10-17 11:13:51 INFO  TravelInsuranceTest:34 - Excel header written successfully.
+2025-10-17 11:14:02 ERROR TravelInsurancePage:119 - Failed to fetch plan name for index 0
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id='plan-0']/descendant::h2 (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.186, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\2407391\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65501}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65501/devtoo..., se:cdpVersion: 140.0.7339.186, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1814f9b09ba64d01ab1590b0c9a07bde
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.35.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.35.0.jar:?]
+	at pages.TravelInsurancePage.getPlanName(TravelInsurancePage.java:115) ~[classes/:?]
+	at tests.TravelInsuranceTest.testTravelInsurancePlans(TravelInsuranceTest.java:42) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-10-17 11:14:11 INFO  TravelInsurancePage:127 - Fetched plan price for index 0: ₹1,474
+2025-10-17 11:14:11 INFO  TravelInsuranceTest:45 - Written plan 1: null - ₹1,474
+2025-10-17 11:14:12 INFO  TravelInsurancePage:116 - Fetched plan name for index 1: Double Secure Plus
+2025-10-17 11:14:12 INFO  TravelInsurancePage:127 - Fetched plan price for index 1: ₹1,684
+2025-10-17 11:14:12 INFO  TravelInsuranceTest:45 - Written plan 2: Double Secure Plus - ₹1,684
+2025-10-17 11:14:12 INFO  TravelInsurancePage:116 - Fetched plan name for index 2: Comfort Plan
+2025-10-17 11:14:12 INFO  TravelInsurancePage:127 - Fetched plan price for index 2: ₹1,182
+2025-10-17 11:14:12 INFO  TravelInsuranceTest:45 - Written plan 3: Comfort Plan - ₹1,182
+2025-10-17 11:14:12 INFO  TravelInsuranceTest:50 - Excel file saved with travel insurance data.
+2025-10-17 11:14:12 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 11:14:21 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 11:14:40 INFO  CommercialInsurancePage:28 - Starting car insurance search.
+2025-10-17 11:14:41 INFO  CommercialInsurancePage:33 - Clicked on registration field.
+2025-10-17 11:14:42 INFO  CommercialInsurancePage:38 - Entered mobile number and submitted.
+2025-10-17 11:14:44 INFO  CommercialInsuranceTest:33 - Screenshot taken successfully.
+2025-10-17 11:14:44 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 11:14:57 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 11:15:14 INFO  HealthInsurancePage:29 - Switched to Health Insurance tab.
+2025-10-17 11:15:14 INFO  HealthInsurancePage:39 - Entered pin code.
+2025-10-17 11:15:15 INFO  HealthInsurancePage:49 - Entered mobile number.
+2025-10-17 11:15:15 INFO  HealthInsurancePage:59 - Clicked View Price button.
+2025-10-17 11:15:27 INFO  HealthInsurancePage:75 - Found 3 menu items.
+2025-10-17 11:15:28 INFO  HealthInsuranceTest:28 - Executed health insurance search.
+2025-10-17 11:15:28 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 11:15:35 INFO  BaseTest:59 - Flushing Extent Reports... 
+
+2025-10-17 13:29:59 INFO  BaseTest:35 - Initializing Extent Reports
+2025-10-17 13:29:59 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:30:11 INFO  TravelInsurancePage:37 - Switched to Travel Insurance tab.
+2025-10-17 13:30:14 INFO  TravelInsurancePage:53 - Entered country: Germany
+2025-10-17 13:30:17 INFO  TravelInsurancePage:66 - Selected departure date.
+2025-10-17 13:30:19 INFO  TravelInsurancePage:76 - Selected return date.
+2025-10-17 13:30:20 INFO  TravelInsurancePage:86 - Clicked the view price button.
+2025-10-17 13:30:23 INFO  TravelInsurancePage:95 - Clicked to add traveller.
+2025-10-17 13:30:26 INFO  TravelInsurancePage:101 - Entered DOBs for travellers.
+2025-10-17 13:30:26 INFO  TravelInsurancePage:105 - Clicked continue to view plans.
+2025-10-17 13:30:26 INFO  TravelInsuranceTest:29 - Executed travel insurance search.
+2025-10-17 13:30:28 INFO  TravelInsuranceTest:34 - Excel header written successfully.
+2025-10-17 13:30:39 ERROR TravelInsurancePage:119 - Failed to fetch plan name for index 0
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id='plan-0']/descendant::h2 (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.186, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\2407391\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64542}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64542/devtoo..., se:cdpVersion: 140.0.7339.186, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 815e9b0f20c9f5107adc4989138c98c4
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.35.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.35.0.jar:?]
+	at pages.TravelInsurancePage.getPlanName(TravelInsurancePage.java:115) ~[classes/:?]
+	at tests.TravelInsuranceTest.testTravelInsurancePlans(TravelInsuranceTest.java:42) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-10-17 13:30:49 ERROR TravelInsurancePage:130 - Failed to fetch plan price for index 0
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id='plan-0']/descendant::p[3] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.186, chrome: {chromedriverVersion: 140.0.7339.207 (17230b545fd..., userDataDir: C:\Users\2407391\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64542}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64542/devtoo..., se:cdpVersion: 140.0.7339.186, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 815e9b0f20c9f5107adc4989138c98c4
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.35.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.35.0.jar:?]
+	at pages.TravelInsurancePage.getPlanPrice(TravelInsurancePage.java:126) ~[classes/:?]
+	at tests.TravelInsuranceTest.testTravelInsurancePlans(TravelInsuranceTest.java:43) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-10-17 13:30:49 INFO  TravelInsuranceTest:45 - Written plan 1: null - null
+2025-10-17 13:30:50 INFO  TravelInsurancePage:116 - Fetched plan name for index 1: Double Secure Plus
+2025-10-17 13:30:50 INFO  TravelInsurancePage:127 - Fetched plan price for index 1: ₹1,684
+2025-10-17 13:30:50 INFO  TravelInsuranceTest:45 - Written plan 2: Double Secure Plus - ₹1,684
+2025-10-17 13:30:50 INFO  TravelInsurancePage:116 - Fetched plan name for index 2: Comfort Plan
+2025-10-17 13:30:50 INFO  TravelInsurancePage:127 - Fetched plan price for index 2: ₹1,182
+2025-10-17 13:30:50 INFO  TravelInsuranceTest:45 - Written plan 3: Comfort Plan - ₹1,182
+2025-10-17 13:30:51 INFO  TravelInsuranceTest:50 - Excel file saved with travel insurance data.
+2025-10-17 13:30:51 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:30:57 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:31:04 INFO  CommercialInsurancePage:28 - Starting car insurance search.
+2025-10-17 13:31:05 INFO  CommercialInsurancePage:33 - Clicked on registration field.
+2025-10-17 13:31:05 INFO  CommercialInsurancePage:38 - Entered mobile number and submitted.
+2025-10-17 13:31:08 INFO  CommercialInsuranceTest:33 - Screenshot taken successfully.
+2025-10-17 13:31:08 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:31:11 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:31:17 INFO  HealthInsurancePage:29 - Switched to Health Insurance tab.
+2025-10-17 13:31:17 INFO  HealthInsurancePage:39 - Entered pin code.
+2025-10-17 13:31:18 INFO  HealthInsurancePage:49 - Entered mobile number.
+2025-10-17 13:31:18 INFO  HealthInsurancePage:59 - Clicked View Price button.
+2025-10-17 13:31:27 INFO  HealthInsurancePage:75 - Found 3 menu items.
+2025-10-17 13:31:27 INFO  HealthInsuranceTest:28 - Executed health insurance search.
+2025-10-17 13:31:27 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:31:32 INFO  BaseTest:59 - Flushing Extent Reports... 
+
+2025-10-17 13:41:53 INFO  BaseTest:35 - Initializing Extent Reports
+2025-10-17 13:41:53 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:42:01 INFO  TravelInsurancePage:37 - Switched to Travel Insurance tab.
+2025-10-17 13:42:05 INFO  TravelInsurancePage:53 - Entered country: Germany
+2025-10-17 13:42:08 INFO  TravelInsurancePage:66 - Selected departure date.
+2025-10-17 13:42:10 INFO  TravelInsurancePage:76 - Selected return date.
+2025-10-17 13:42:10 INFO  TravelInsurancePage:86 - Clicked the view price button.
+2025-10-17 13:42:14 INFO  TravelInsurancePage:95 - Clicked to add traveller.
+2025-10-17 13:42:17 INFO  TravelInsurancePage:101 - Entered DOBs for travellers.
+2025-10-17 13:42:19 INFO  TravelInsurancePage:106 - Clicked continue to view plans.
+2025-10-17 13:42:19 INFO  TravelInsuranceTest:29 - Executed travel insurance search.
+2025-10-17 13:42:21 ERROR TravelInsuranceTest:37 - Failed to write Excel header
+java.io.FileNotFoundException: C:\Users\2407391\eclipse-workspace\modularFramework\ExcelReports\TravelReport.xlsx (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at utils.ExcelUtils.writeHeader(ExcelUtils.java:16) ~[classes/:?]
+	at tests.TravelInsuranceTest.testTravelInsurancePlans(TravelInsuranceTest.java:32) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-10-17 13:42:21 INFO  TravelInsurancePage:117 - Fetched plan name for index 0: Double Secure
+2025-10-17 13:42:21 INFO  TravelInsurancePage:128 - Fetched plan price for index 0: ₹1,474
+2025-10-17 13:42:21 INFO  TravelInsuranceTest:45 - Written plan 1: Double Secure - ₹1,474
+2025-10-17 13:42:21 INFO  TravelInsurancePage:117 - Fetched plan name for index 1: Double Secure Plus
+2025-10-17 13:42:21 INFO  TravelInsurancePage:128 - Fetched plan price for index 1: ₹1,684
+2025-10-17 13:42:21 INFO  TravelInsuranceTest:45 - Written plan 2: Double Secure Plus - ₹1,684
+2025-10-17 13:42:21 INFO  TravelInsurancePage:117 - Fetched plan name for index 2: Comfort Plan
+2025-10-17 13:42:21 INFO  TravelInsurancePage:128 - Fetched plan price for index 2: ₹1,182
+2025-10-17 13:42:21 INFO  TravelInsuranceTest:45 - Written plan 3: Comfort Plan - ₹1,182
+2025-10-17 13:42:21 ERROR TravelInsuranceTest:53 - Failed to write travel insurance data to Excel
+org.apache.poi.openxml4j.exceptions.OpenXML4JRuntimeException: Fail to save: an error occurs while saving the package : Cannot invoke "java.io.OutputStream.write(byte[], int, int)" because "this.os" is null
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:604) ~[poi-ooxml-5.3.0.jar:5.3.0]
+	at org.apache.poi.openxml4j.opc.OPCPackage.save(OPCPackage.java:1531) ~[poi-ooxml-5.3.0.jar:5.3.0]
+	at org.apache.poi.ooxml.POIXMLDocument.write(POIXMLDocument.java:227) ~[poi-ooxml-5.3.0.jar:5.3.0]
+	at utils.ExcelUtils.saveToFile(ExcelUtils.java:29) ~[classes/:?]
+	at tests.TravelInsuranceTest.testTravelInsurancePlans(TravelInsuranceTest.java:48) ~[classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "java.io.OutputStream.write(byte[], int, int)" because "this.os" is null
+	at org.apache.commons.compress.archivers.zip.StreamCompressor$OutputStreamCompressor.writeOut(StreamCompressor.java:64) ~[commons-compress-1.26.2.jar:1.26.2]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.writeCounted(StreamCompressor.java:305) ~[commons-compress-1.26.2.jar:1.26.2]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.writeCounted(StreamCompressor.java:301) ~[commons-compress-1.26.2.jar:1.26.2]
+	at org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeCounted(ZipArchiveOutputStream.java:1657) ~[commons-compress-1.26.2.jar:1.26.2]
+	at org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.writeLocalFileHeader(ZipArchiveOutputStream.java:1711) ~[commons-compress-1.26.2.jar:1.26.2]
+	at org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putArchiveEntry(ZipArchiveOutputStream.java:1234) ~[commons-compress-1.26.2.jar:1.26.2]
+	at org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream.putArchiveEntry(ZipArchiveOutputStream.java:1177) ~[commons-compress-1.26.2.jar:1.26.2]
+	at org.apache.poi.openxml4j.opc.internal.ZipContentTypeManager.saveImpl(ZipContentTypeManager.java:65) ~[poi-ooxml-5.3.0.jar:5.3.0]
+	at org.apache.poi.openxml4j.opc.internal.ContentTypeManager.save(ContentTypeManager.java:450) ~[poi-ooxml-5.3.0.jar:5.3.0]
+	at org.apache.poi.openxml4j.opc.ZipPackage.saveImpl(ZipPackage.java:569) ~[poi-ooxml-5.3.0.jar:5.3.0]
+	... 30 more
+2025-10-17 13:42:21 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:42:22 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:42:29 INFO  CommercialInsurancePage:28 - Starting car insurance search.
+2025-10-17 13:42:29 INFO  CommercialInsurancePage:33 - Clicked on registration field.
+2025-10-17 13:42:30 INFO  CommercialInsurancePage:38 - Entered mobile number and submitted.
+2025-10-17 13:42:32 INFO  CommercialInsuranceTest:33 - Screenshot taken successfully.
+2025-10-17 13:42:32 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:42:32 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:42:38 INFO  HealthInsurancePage:29 - Switched to Health Insurance tab.
+2025-10-17 13:42:39 INFO  HealthInsurancePage:39 - Entered pin code.
+2025-10-17 13:42:39 INFO  HealthInsurancePage:49 - Entered mobile number.
+2025-10-17 13:42:39 INFO  HealthInsurancePage:59 - Clicked View Price button.
+2025-10-17 13:42:49 INFO  HealthInsurancePage:75 - Found 3 menu items.
+2025-10-17 13:42:49 INFO  HealthInsuranceTest:28 - Executed health insurance search.
+2025-10-17 13:42:49 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:42:50 INFO  BaseTest:59 - Flushing Extent Reports... 
+
+2025-10-17 13:44:56 INFO  BaseTest:35 - Initializing Extent Reports
+2025-10-17 13:44:56 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:45:19 INFO  TravelInsurancePage:37 - Switched to Travel Insurance tab.
+2025-10-17 13:45:23 INFO  TravelInsurancePage:53 - Entered country: Germany
+2025-10-17 13:45:25 INFO  TravelInsurancePage:66 - Selected departure date.
+2025-10-17 13:45:27 INFO  TravelInsurancePage:76 - Selected return date.
+2025-10-17 13:45:28 INFO  TravelInsurancePage:86 - Clicked the view price button.
+2025-10-17 13:45:31 INFO  TravelInsurancePage:95 - Clicked to add traveller.
+2025-10-17 13:45:33 INFO  TravelInsurancePage:101 - Entered DOBs for travellers.
+2025-10-17 13:45:36 INFO  TravelInsurancePage:106 - Clicked continue to view plans.
+2025-10-17 13:45:36 INFO  TravelInsuranceTest:29 - Executed travel insurance search.
+2025-10-17 13:45:38 INFO  TravelInsuranceTest:34 - Excel header written successfully.
+2025-10-17 13:45:38 INFO  TravelInsurancePage:117 - Fetched plan name for index 0: Double Secure
+2025-10-17 13:45:38 INFO  TravelInsurancePage:128 - Fetched plan price for index 0: ₹1,474
+2025-10-17 13:45:38 INFO  TravelInsuranceTest:45 - Written plan 1: Double Secure - ₹1,474
+2025-10-17 13:45:38 INFO  TravelInsurancePage:117 - Fetched plan name for index 1: Double Secure Plus
+2025-10-17 13:45:38 INFO  TravelInsurancePage:128 - Fetched plan price for index 1: ₹1,684
+2025-10-17 13:45:38 INFO  TravelInsuranceTest:45 - Written plan 2: Double Secure Plus - ₹1,684
+2025-10-17 13:45:38 INFO  TravelInsurancePage:117 - Fetched plan name for index 2: Comfort Plan
+2025-10-17 13:45:38 INFO  TravelInsurancePage:128 - Fetched plan price for index 2: ₹1,182
+2025-10-17 13:45:38 INFO  TravelInsuranceTest:45 - Written plan 3: Comfort Plan - ₹1,182
+2025-10-17 13:45:39 INFO  TravelInsuranceTest:50 - Excel file saved with travel insurance data.
+2025-10-17 13:45:39 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:45:44 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:45:53 INFO  CommercialInsurancePage:28 - Starting car insurance search.
+2025-10-17 13:45:53 INFO  CommercialInsurancePage:33 - Clicked on registration field.
+2025-10-17 13:45:54 INFO  CommercialInsurancePage:38 - Entered mobile number and submitted.
+2025-10-17 13:45:56 INFO  CommercialInsuranceTest:33 - Screenshot taken successfully.
+2025-10-17 13:45:56 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:46:00 INFO  BaseTest:41 - Launching Chrome browser and navigating to site
+2025-10-17 13:46:06 INFO  HealthInsurancePage:29 - Switched to Health Insurance tab.
+2025-10-17 13:46:07 INFO  HealthInsurancePage:39 - Entered pin code.
+2025-10-17 13:46:07 INFO  HealthInsurancePage:49 - Entered mobile number.
+2025-10-17 13:46:07 INFO  HealthInsurancePage:59 - Clicked View Price button.
+2025-10-17 13:46:17 INFO  HealthInsurancePage:75 - Found 3 menu items.
+2025-10-17 13:46:17 INFO  HealthInsuranceTest:28 - Executed health insurance search.
+2025-10-17 13:46:17 INFO  BaseTest:52 - Closing browser and cleaning up resources
+2025-10-17 13:46:23 INFO  BaseTest:59 - Flushing Extent Reports... 
+

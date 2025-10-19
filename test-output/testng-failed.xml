@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [InsuranceAutomationSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="InsuranceTests(failed)">
+    <classes>
+      <class name="tests.CommercialInsuranceTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="testSetup"/>
+          <include name="browserSetup"/>
+          <include name="testCarInsuranceSearch"/>
+          <include name="reportTearDown"/>
+          <include name="reportSetup"/>
+        </methods>
+      </class> <!-- tests.CommercialInsuranceTest -->
+      <class name="tests.HealthInsuranceTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="browserSetup"/>
+          <include name="reportTearDown"/>
+          <include name="testHealthInsuranceSearch"/>
+          <include name="reportSetup"/>
+          <include name="testSetup"/>
+        </methods>
+      </class> <!-- tests.HealthInsuranceTest -->
+    </classes>
+  </test> <!-- InsuranceTests(failed) -->
+</suite> <!-- Failed suite [InsuranceAutomationSuite] -->
