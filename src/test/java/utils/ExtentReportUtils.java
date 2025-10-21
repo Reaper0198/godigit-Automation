@@ -9,7 +9,7 @@ public class ExtentReportUtils {
 
     public static ExtentReports getInstance() {
         if (extent == null) {
-            ExtentSparkReporter spark = new ExtentSparkReporter("C:/Users/2407391/eclipse-workspace/modularFramework/ExtentReport/ExtentReport.html");
+            ExtentSparkReporter spark = new ExtentSparkReporter(System.getProperty("user.dir") + "/ExtentReport/ExtentReport.html");
             extent = new ExtentReports();
             extent.attachReporter(spark);
         }

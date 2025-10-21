@@ -3,26 +3,16 @@
 <suite name="Failed suite [InsuranceAutomationSuite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="InsuranceTests(failed)">
     <classes>
-      <class name="tests.CommercialInsuranceTest">
+      <class name="tests.TravelInsuranceTest">
         <methods>
-          <include name="teardown"/>
           <include name="testSetup"/>
+          <include name="teardown"/>
           <include name="browserSetup"/>
-          <include name="testCarInsuranceSearch"/>
+          <include name="testTravelInsurancePlans"/>
           <include name="reportTearDown"/>
           <include name="reportSetup"/>
         </methods>
-      </class> <!-- tests.CommercialInsuranceTest -->
-      <class name="tests.HealthInsuranceTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="browserSetup"/>
-          <include name="reportTearDown"/>
-          <include name="testHealthInsuranceSearch"/>
-          <include name="reportSetup"/>
-          <include name="testSetup"/>
-        </methods>
-      </class> <!-- tests.HealthInsuranceTest -->
+      </class> <!-- tests.TravelInsuranceTest -->
     </classes>
   </test> <!-- InsuranceTests(failed) -->
 </suite> <!-- Failed suite [InsuranceAutomationSuite] -->

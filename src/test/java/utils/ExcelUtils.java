@@ -13,7 +13,7 @@ public class ExcelUtils {
     private static FileOutputStream out;
 
     public static void writeHeader() throws FileNotFoundException {
-    	out = new FileOutputStream(new File("C:/Users/2407391/eclipse-workspace/modularFramework/ExcelReports/TravelReport.xlsx"));
+    	out = new FileOutputStream(new File(System.getProperty("user.dir") + "/ExcelReports/TravelReport.xlsx"));
         XSSFRow titleRow = sheet.createRow(0);
         titleRow.createCell(0).setCellValue("Plan Name");
         titleRow.createCell(1).setCellValue("Plan Price");

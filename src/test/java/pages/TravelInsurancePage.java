@@ -31,9 +31,12 @@ public class TravelInsurancePage {
     }
 
     public void searchTravelInsurance() throws InterruptedException {
+    	
+			
         try {
             wait.until(ExpectedConditions.elementToBeClickable(By.xpath("(//a[@class='qf-switcher'])[4]"))).click();
             Thread.sleep(2000);
+            js.executeScript("window.scrollBy({top : 100,left :0,behavior: 'smooth'})");
             logger.info("Switched to Travel Insurance tab.");
             test.pass("Successfully switched to Travel Insurance tab");
         } catch (Exception e) {
@@ -71,6 +74,7 @@ public class TravelInsurancePage {
         }
 
         try {
+        	wait.until(ExpectedConditions.elementToBeClickable(By.id("return-date"))).click();
             wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//div[contains(@class, 'calendar__end-wrapper')]//td[@data-day='8']"))).click();
             Thread.sleep(2000);
             logger.info("Selected return date.");
